@@ -1,0 +1,7 @@
+README.md
+setup.py
+src/tictoc.py
+src/tictoc.egg-info/PKG-INFO
+src/tictoc.egg-info/SOURCES.txt
+src/tictoc.egg-info/dependency_links.txt
+src/tictoc.egg-info/top_level.txt

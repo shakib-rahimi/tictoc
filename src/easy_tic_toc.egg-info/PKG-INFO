@@ -1,0 +1,34 @@
+Metadata-Version: 2.1
+Name: easy-tic-toc
+Version: 0.0.1
+Summary: The easiest way to calculate the execution time of any part of the program in Python
+Home-page: https://github.com/shakib-rahimi/tictoc
+Author: Shakib Rahimi
+Author-email: shakibrahimy@gmail.com
+License: UNKNOWN
+Description: ## Usage
+        
+        """python
+        
+            from tictoc import tic, toc
+            
+            tic()
+            
+            <some codes>
+        
+            toc()       # to show the execution time directly with built-in print function
+            
+            #-----------------------------------------#
+            
+            tic()
+            
+            <some codes 2>
+            
+            execution_time = toc(False) # do not show, but return as a variable
+            
+        """
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown

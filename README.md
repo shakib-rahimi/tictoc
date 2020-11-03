@@ -1,6 +1,9 @@
 ## Usage
 
-"""python
+The easiest way to calculate the execution time of any part of the program in Python
+sample code:
+
+"""
 
     from tictoc import tic, toc
     

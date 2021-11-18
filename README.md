@@ -1,3 +1,7 @@
+## install
+pip install easy_tictoc
+
+
 ## Usage
 
 The easiest way to calculate the execution time of any part of the program in Python,

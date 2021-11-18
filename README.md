@@ -1,5 +1,5 @@
 ## install
-pip install easy_tictoc
+    pip install easy_tictoc
 
 
 ## Usage
